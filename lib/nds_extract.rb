@@ -21,6 +21,4 @@ def directors_totals(nds)
   end
 
   totals
-
-  nil
 end
